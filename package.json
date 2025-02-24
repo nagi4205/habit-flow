@@ -1,0 +1,13 @@
+{
+  "name": "routine-todo-app",
+  "version": "1.0.0",
+  "description": "Routine Todo Application with Next.js and Hono",
+  "private": true,
+  "scripts": {
+    "frontend": "pnpm --filter frontend dev",
+    "server": "pnpm --filter server dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
